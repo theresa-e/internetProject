@@ -1,0 +1,157 @@
+* {
+	padding: 0;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    width: 970px;
+    height: auto;
+}
+
+.header-img{
+    width: 110px;
+    display: inline-block;
+    margin-bottom: -33px;
+}
+
+.videoButton{
+    background-color: #3C87B2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin-top: 14px;
+    display: block;
+    border-radius: 10px;
+}
+
+.moreResourcesButton{
+    background-color: #ED9426;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin-top: 14px;
+    display: block;
+    border-radius: 10px;
+}
+
+.learnMoreButton{
+    background-color: #03CBDD;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin-top: 14px;
+    display: block;
+    border-radius: 10px;
+}
+
+.lower-header{
+    background: linear-gradient(#026A9C, #4584A9, #026A9C);
+    font-size: 38px;
+    color: white;
+    padding: 16px;
+}
+
+.main{
+    background: linear-gradient(#E3E3E3, white);
+}
+
+.upper-sidebar{
+    width: 300px;
+    min-height: 250px;
+    padding: 20px 0px 0px 7px;
+}
+
+.lower-sidebar{
+    width: 300px;
+    min-height: 350px;
+    background-image: url(/Users/Theresa/Desktop/DojoAssignments/WebFundamentals/CSS/InternetProject/images/ad_background.png);
+}
+
+.sidebar{
+    display:inline-block;
+}
+
+.sidebarHR{
+    margin: 40px 0 30px 0;
+}
+
+.article{
+    display:inline-block;
+    vertical-align: top;
+    width: 658px;
+}
+
+.upper-article{
+    height: auto;
+    padding: 30px;
+}
+
+.serverClientImg{
+    margin: auto;
+    display: block;
+    width: 400px;
+    padding: 10px;
+}
+
+.lowerhead{
+    display: inline-block;
+    color: #0F6FA0;
+    font-size: 20px;
+    vertical-align: top;
+    margin-top: 12px;
+}
+
+.titletext{
+    color: #0F6FA0;
+    font-size: 50px;
+    display: inline-block;
+}
+
+.subtitleText{
+    color: #0F6FA0;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.listText{
+    margin-left: 35px;
+    margin-top: 5px;
+}
+
+.lowerArticleText{
+    vertical-align: top;
+    width: 500px;
+}
+
+.lowerArticleText{
+    display:inline-block;
+}
+
+.leftSidebarRedText{
+    color: red;
+}
+
+.importantText{
+    color: #2BABBC;
+}
+
+.ninja_img{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
+.webFundImgs{
+    width: 100px;
+    padding: 10px;
+}
+
+.lower-article{
+    height: auto;
+    border: 5px solid #0089DB;
+    padding: 10px;
+}
